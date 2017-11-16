@@ -1,4 +1,4 @@
-package com.company;
+package controller;
 
 import SetsClasses.MySets;
 import SetsClasses.Set;
